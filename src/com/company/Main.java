@@ -67,6 +67,7 @@ public class Main {
 //            System.out.println(" ");
 //        }
 
+        //pishka
         System.out.println("Describe day: ");
         String d = input.nextLine();
         System.out.println("--- " + getDateFromDescription(d) + " ---");
